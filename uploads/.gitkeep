@@ -1,0 +1,1 @@
+echo "This file ensures the uploads folder is tracked by Git." > uploads/.gitkeep
