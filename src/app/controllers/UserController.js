@@ -6,9 +6,9 @@
  *  delete => Deletar um registro
  */
 
-import User from '../models/User';
-import { v4 } from 'uuid'
+import { v4 } from 'uuid';
 import * as Yup from 'yup';
+import User from '../models/User';
 
 
 
