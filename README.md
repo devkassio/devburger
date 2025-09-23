@@ -1,4 +1,4 @@
-echo "# 🍔 DevBurger API
+# 🍔 DevBurger API
 
 🚧 **Projeto em construção** 🚧  
 
@@ -8,4 +8,4 @@ Acompanhe as atualizações constantes e fique de olho nas novidades!
 
 ---
 
-✍️ Autor: [Kássio Barros](https://github.com/devkassio)" > README.md
+✍️ Autor: [Kássio Barros](https://github.com/devkassio) > README.md
