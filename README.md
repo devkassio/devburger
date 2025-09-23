@@ -8,4 +8,10 @@ Acompanhe as atualizações constantes e fique de olho nas novidades!
 
 ---
 
-✍️ Autor: [Kássio Barros](https://github.com/devkassio) > README.md
+## 📊 Status de Desenvolvimento
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devkassio&theme=tokyonight&hide_border=true)
+
+---
+
+✍️ Autor: [Kássio Barros](https://github.com/devkassio)
