@@ -19,7 +19,7 @@ const OrderSchema = new mongoose.Schema({
                 required: true
             },
             name: {
-                type: Number,
+                type: String,
                 required: true
             },
             price: {
@@ -27,7 +27,7 @@ const OrderSchema = new mongoose.Schema({
                 required: true
             },
             category: {
-                type: Number,
+                type: String,
                 required: true
             },
             url: {

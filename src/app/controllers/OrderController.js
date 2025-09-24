@@ -1,4 +1,5 @@
 import * as Yup from 'yup';
+import Order from '../schemas/Order';
 import Category from '../models/Category';
 import Product from '../models/Product';
 
@@ -59,10 +60,13 @@ class OrderController {
                 id: req.userId,
                 name: req.userName,
             },
-            products: formattedProducts
+            products: formattedProducts,
+            status: 'Pedido realizado',
         };
 
-        return res.status(201).json(order);
+        const createdOrder = await Order.create(order);
+
+        return res.status(201).json(createdOrder);
     }
 
 }
